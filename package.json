@@ -11,6 +11,6 @@
   "devDependencies": {
     "nuxt": "^3.0.0",
     "@nuxt-themes/docus": "^1.1.8",
-    "@nuxthq/studio": "^0.3.12"
+    "@nuxthq/studio": "^0.4.2"
   }
 }
