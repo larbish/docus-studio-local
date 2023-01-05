@@ -1,0 +1,1 @@
+import{_ as o}from"./List.vue_vue_type_style_index_0_scoped_f4e70c29_transformed_true_lang.5431485c.js";import{b as t}from"./entry.effd7347.js";import"./ContentSlot.c505c784.js";const _=t(o,[["__scopeId","data-v-f4e70c29"]]);export{_ as default};
